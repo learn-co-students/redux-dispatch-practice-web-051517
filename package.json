@@ -46,6 +46,7 @@
   "dependencies": {
     "mocha-jsdom": "^1.1.0",
     "react": "^15.3.0",
-    "react-dom": "^15.3.0"
+    "react-dom": "^15.3.0",
+    "yard": "^1.0.3"
   }
 }
